@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/11/06 12:57:06.000.501,=C:\Users\Arthur Fonseca\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/11/06 12:58:20.000.551,C:\Users\Arthur Fonseca\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Arthur Fonseca\Documents\Desafio 1\Projeto1.dfm</Transaction>
+    <Transaction>2023/11/06 12:58:20.000.551,C:\Users\Arthur Fonseca\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Arthur Fonseca\Documents\Desafio 1\Projeto1.pas</Transaction>
+    <Transaction>2023/11/06 16:42:09.000.788,C:\Users\Arthur Fonseca\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Arthur Fonseca\Documents\Desafio 1\Project1.dproj</Transaction>
+    <Transaction>2023/11/07 08:31:21.953,C:\#aulas\Aula 1\Desafio 1\CalculadorTriangulo.dproj=C:\#aulas\Aula 1\Desafio 1\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
